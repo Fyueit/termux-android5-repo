@@ -1,2 +1,5 @@
-# The main termux repository:
-deb https://packages-cf.termux.org/termux-main-21 stable main
+deb https://mirror.nju.edu.cn/osdn/storage/g/t/te/termux-old/termux-packages stable main
+deb https://mirror.nju.edu.cn/osdn/storage/g/t/te/termux-old/science-packages-21 science stable
+deb https://mirror.nju.edu.cn/osdn/storage/g/t/te/termux-old/game-packages-21 games stable
+deb https://mirror.nju.edu.cn/osdn/storage/g/t/te/termux-old/unstable-packages-21 unstable main
+deb https://mirror.nju.edu.cn/osdn/storage/g/t/te/termux-old/x11-packages-21 x11 main
